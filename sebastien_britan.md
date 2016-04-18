@@ -9,7 +9,7 @@ Expériences Professionnelles
   - Développement fullstack (AngularJs, Zend, NodeJs) de la feature TrustYou sur le Backoffice des hôteliers. Ce module permet à l'hôtelier de recueillir les avis utilisateurs suite à un séjour dans cet hôtel.
   - Développement backend (AngularJs, Zend) du module Marketing Campaign Manager sur ce même backoffice. Ce module permet aux hôteliers la mise en place de campagnes marketing, applicables sur les chambres, hôtels, de son choix, aux dates de son choix.
 
-**10/2014 - 01/2016 : rednet.io, Villejuif**
+**10/2014 - 01/2016 : Rednet.io, Villejuif**
 
   - Développement du backend Rails pour une application mobile orientée réseau social de proximité
   - Refonte de ce même backend Rails en Node.js (Express.js)
