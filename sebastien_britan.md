@@ -46,7 +46,7 @@ Compétences clés
 
   - Javascript (ES5, ES6)
   - AngularJS (1.x)
-  - Node.js (Express.js, Mongoose, Sequelize, Mocha)
+  - Node.js (Express.js, Mongoose, Sequelize, Mocha, Socket.io)
   - MongoDB, MySQL, Redis
   - Git (Bitbucket, Github, Gitlab, Stash)
   - Svn
