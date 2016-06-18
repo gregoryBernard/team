@@ -109,6 +109,7 @@ Les plus (veille personnelle)
 
   - Développement (en cours) d'un site de présentation et d'actualité d'un astronaute (mission STS-111)
   - Développement (MVP) d'un outil de gestion des entretiens annuels (client side only, SheetJS, AngularJS, Angular Material, HighCharts)
+  - Développement d'un jeu mobile pour ma soirée d'anniversaire (Node.js, Express, MongoDB, Ionic)
   - Développement (MVP) d'une application mobile pour la gestion de salle de réunion (Ionic)
   - Développement d'une Progressive Web App de gestion de séance de sport (AngularJS, Angular Material, Node.js, Sequelize, HighCharts)
   - Développement d'un portfolio web pour une architecte DEA
