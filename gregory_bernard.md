@@ -1,10 +1,25 @@
 Grégory Bernard
 ===========
 
-> 26 ans, permis B et A, véhiculé
+> 27 ans, permis B et A, véhiculé
 
 Expériences Professionnelles
 ----------------------------
+
+**09/2016 - 08/2017 : Rednetio, La Défense**
+
+  - Technical Leader / Scrum Master non dédié
+  - Reprise et développement du plateforme de restitution de données du controle de gestion
+  - Développement de plusieurs SPA qui partagent des modules communs (AngularJS)
+  - Application mobile ouverte à l'extérieur (données sensibles)
+  - POCs Data Visualisation (D3js)
+  - Testing BDD / TDD (CucumberJS, Jasmine, Chai, Protractor, Istanbul)
+  - Software Factory
+    - Nexus, NPM Registry privé
+    - Jenkins (Maven, Lifecycle)
+    - XL Deploy
+    - Infrastructure As Code (Puppet)
+  
 
 **04/2015 - 07/2016 : OnePoint, La Défense**
 
