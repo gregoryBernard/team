@@ -99,8 +99,8 @@ Compétences clés
 ----------------
 
   - Fullstack JavaScript (ES5, ES6) + TypeScript | FlowType
-  - AngularJS, Ionic (1.x), Cordova, PhoneGap
-  - ReactJS
+  - AngularJS, Ionic (1.x), Cordova, PhoneGap, ReactNative
+  - ReactJS Redux
   - Node.js (Express.js, Mongoose, Sequelize, Mocha)
   - D3js, C3js, HighCharts, StockCharts
   - Gulp, ESLint, JSCS, JSHint
